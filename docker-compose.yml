@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  bot:
+    image: python:3.9
+    env_file:
+      - .env
+

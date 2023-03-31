@@ -1,0 +1,2 @@
+crontab -e
+56 1 * * * /home/juanfelipeoz/Documentos/GPU-HunterBot/start.sh
